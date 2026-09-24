@@ -1,0 +1,6 @@
+interface:
+  display_name: "Energy Viral Radar"
+  short_description: "Detect explainable energy-storage content outliers"
+  default_prompt: "Use $energy-viral-radar to scan configured markets for early energy-storage viral candidates and explain the strongest signals."
+policy:
+  allow_implicit_invocation: false

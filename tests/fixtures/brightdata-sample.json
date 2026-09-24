@@ -1,0 +1,29 @@
+[
+  {
+    "platform": "youtube",
+    "video_id": "demo-001",
+    "url": "https://www.youtube.com/watch?v=demo-001&utm_source=fixture",
+    "title": "Home battery blackout test",
+    "description": "Installer switches off the grid supply and demonstrates backup handover.",
+    "published_at": "2026-09-16T08:00:00Z",
+    "views": 12000,
+    "likes": 920,
+    "comments": 84,
+    "followers": 18000,
+    "topic_tags": ["blackout-test", "battery-backup"]
+  },
+  {
+    "platform": "tiktok",
+    "id": "demo-002",
+    "url": "https://www.tiktok.com/@demo/video/demo-002",
+    "caption": "Electricity bill before and after installing a solar battery",
+    "date_posted": "2026-09-16T07:30:00Z",
+    "play_count": "28K",
+    "digg_count": "1.8K",
+    "comment_count": 132,
+    "share_count": 210,
+    "followers_count": "42K",
+    "topic_tags": ["bill-before-after", "solar-battery"]
+  }
+]
+

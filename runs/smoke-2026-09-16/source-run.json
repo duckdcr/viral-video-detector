@@ -1,0 +1,20 @@
+{
+  "run_id": "smoke-2026-09-16-de-youtube-blackout-test",
+  "source": "brightdata",
+  "route": "search",
+  "platform": "youtube",
+  "market": "DE",
+  "language": "de",
+  "topic": "blackout-test",
+  "query": "site:youtube.com/watch Heimspeicher Stromausfall Test Notstrom",
+  "window": "current-search-index",
+  "started_at": "2026-09-16T10:55:37Z",
+  "finished_at": "2026-09-16T10:55:37Z",
+  "records_received": 0,
+  "records_valid": 0,
+  "status": "failed",
+  "error_code": "BRIGHTDATA_ACCOUNT_SUSPENDED",
+  "gaps": [
+    "Bright Data billing activation is required before live search or pipeline calls can run."
+  ]
+}
