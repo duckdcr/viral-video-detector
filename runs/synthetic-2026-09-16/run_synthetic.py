@@ -183,7 +183,7 @@ def main() -> None:
     }
     write_json(RUN_DIR / "source-run.json", source_run)
 
-    report = f"""# Energy Viral Radar — 虚拟数据演练
+    report = f"""# Viral Video Detector — 虚拟数据演练
 
 > **数据声明：** 本报告完全由 `synthetic_fixture` 生成，外部调用为 0；它只验证流程，不代表真实市场表现。
 

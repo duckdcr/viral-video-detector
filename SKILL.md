@@ -1,17 +1,17 @@
 ---
-name: energy-viral-radar
+name: viral-video-detector
 description: Monitor and explain unusually fast-growing energy-storage social content across configured markets using Bright Data-backed public data. Use for trend scans, viral-candidate alerts, candidate explanation, reviewer feedback, and score calibration; not for publishing content or claiming full-web coverage.
 metadata:
   short-description: Cross-market energy content radar
 ---
 
-# Energy Viral Radar
+# Viral Video Detector
 
 Find early, explainable social-content outliers that can become energy-storage topics or scripts. Treat Bright Data as the collection layer and this skill as the evidence, scoring, and routing layer.
 
 ## Activation boundary
 
-Run Bright Data collection only when the user explicitly invokes `$energy-viral-radar` or explicitly asks to scan, refresh, or collect viral-content data. Explaining saved candidates, reviewing feedback, editing configuration, and testing local fixtures do not authorize a new external collection run. Never create a background schedule unless the user separately requests one.
+Run Bright Data collection only when the user explicitly invokes `$viral-video-detector` or explicitly asks to scan, refresh, or collect viral-content data. Explaining saved candidates, reviewing feedback, editing configuration, and testing local fixtures do not authorize a new external collection run. Never create a background schedule unless the user separately requests one.
 
 ## Route the request
 
